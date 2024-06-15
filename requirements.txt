@@ -1,0 +1,4 @@
+pandas 
+pymupdf
+requests
+bs4
